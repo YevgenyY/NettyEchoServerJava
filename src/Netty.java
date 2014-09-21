@@ -1,3 +1,10 @@
+/*
+ * Create NettyEchoServerJava project in Eclipse.
+ * Add netty.jar as extaernal jar in Eclipse
+ * Run as java application
+ * try "telnet localhost 8080"
+ */
+
 import java.net.InetSocketAddress;
 import java.util.concurrent.Executors;
 import org.jboss.netty.bootstrap.ServerBootstrap;
